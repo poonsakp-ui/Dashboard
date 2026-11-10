@@ -1,0 +1,6 @@
+{
+  "name": "Live Training Feedback & Dashboard",
+  "description": "ระบบแบบประเมินความพึงพอใจการอบรมแบบเรียลไทม์ พร้อมหน้าแดชบอร์ดสำหรับขึ้นจอโปรเจกเตอร์ แปลผลเกณฑ์ 5 ระดับ และดาวน์โหลด CSV",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
